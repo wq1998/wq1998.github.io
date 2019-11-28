@@ -18,7 +18,12 @@ Email: <wq2014@mail.ustc.edu.cn>
 
 ## Biograpgy
 
-I enrolled in the School of Gifted Young at University of Science and Technology of China in August 2014. Now I am a senior undergraduate student majoring in computational mathematics and a member of GCL.
+I am currently a Ph.D. candidate at University of Science and Technology of China, supervised by [Prof. Ligang Liu](http://staff.ustc.edu.cn/~lgliu) and [Dr. Xiao-Ming Fu](http://staff.ustc.edu.cn/~fuxm). Before that, I received my B.Sc. degree in 2018 from University of Science and Technology of China.
 
 ## Undergraduate Projects
 
+### Drawing Machine Based on Corexy Structure
+Final Project on Computer Graphics(http://staff.ustc.edu.cn/~lgliu/Courses/ComputerGraphics_2017_spring-summer/Projects/index7.html)
+
+## Awards
+2014 
