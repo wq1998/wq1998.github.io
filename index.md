@@ -1,17 +1,13 @@
 ---
 layout: default
 ---
-[Graphics&Geometric Computing Laboratory](http://gcl.ustc.edu.cn/)
-
-[School of Mathematical Sciences](http://math.ustc.edu.cn/new)
-
+[Graphics&Geometric Computing Laboratory](http://gcl.ustc.edu.cn/) 
+[School of Mathematical Sciences](http://math.ustc.edu.cn/) 
 [University of Science and Technology of China](http://www.ustc.edu.cn/)
 
-Room 1203, Management and Research Building,
-
-University of Science and Technology of China,
-
-Hefei, Anhui, 230026, P. R. China
+Room 1203, Management and Research Building, 
+University of Science and Technology of China, 
+Hefei, Anhui, 230026, P. R. China 
 
 Email: <wq2014@mail.ustc.edu.cn>
 
