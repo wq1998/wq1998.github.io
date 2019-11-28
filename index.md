@@ -35,5 +35,7 @@ Final projects on [Mathematical Modeling](http://www.smartchair.cn/MMC2017/)
 
 ## Awards
 2014 Outstanding new student award for overseas alumni, USTC
+
 2016 Outstanding student scholarship, USTC
+
 2018 Chiang Chen Scholarship, USTC
