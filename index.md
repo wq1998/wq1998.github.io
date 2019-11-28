@@ -1,15 +1,11 @@
-[Graphics&Geometric Computing Laboratory](http://gcl.ustc.edu.cn/) 
-
-[School of Mathematical Sciences](http://math.ustc.edu.cn/) 
-
+[Graphics&Geometric Computing Laboratory](http://gcl.ustc.edu.cn/)  
+[School of Mathematical Sciences](http://math.ustc.edu.cn/)  
 [University of Science and Technology of China](http://www.ustc.edu.cn/)
 
 
 
-Room 1203, Management and Research Building, 
-
-University of Science and Technology of China, 
-
+Room 1203, Management and Research Building,  
+University of Science and Technology of China,  
 Hefei, Anhui, 230026, P. R. China 
 
 
@@ -27,15 +23,16 @@ Geometric Computation and Optimization.
 ## Undergraduate Projects
 
 -  **Drawing Machine Based on Corexy Structure**
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png) Final Project on [Computer Graphics](http://staff.ustc.edu.cn/~lgliu/Courses/ComputerGraphics_2017_spring-summer/Projects/index7)
+
+![corexy](/assets/img/corexy.jpg) Final Project on [Computer Graphics](http://staff.ustc.edu.cn/~lgliu/Courses/ComputerGraphics_2017_spring-summer/Projects/index7)
 
 -  **Handwritten provinces and telephone number identification**
-Final projects on [Mathematical Modeling](http://www.smartchair.cn/MMC2017/)
 
+![character](/assets/img/character.png) Final projects on [Mathematical Modeling](http://www.smartchair.cn/MMC2017/)
+
+* * *
 
 ## Awards
-2014 Outstanding new student award for overseas alumni, USTC
-
-2016 Outstanding student scholarship, USTC
-
+2014 Outstanding new student award for overseas alumni, USTC  
+2016 Outstanding student scholarship, USTC  
 2018 Chiang Chen Scholarship, USTC
