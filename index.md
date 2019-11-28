@@ -11,24 +11,32 @@ Hefei, Anhui, 230026, P. R. China
 
 Email: <wq2014@mail.ustc.edu.cn>
 
+* * *
+
 
 ## Biograpgy
 
 I am currently a Ph.D. candidate at University of Science and Technology of China, supervised by [Prof. Ligang Liu](http://staff.ustc.edu.cn/~lgliu) and [Dr. Xiao-Ming Fu](http://staff.ustc.edu.cn/~fuxm). Before that, I received my B.Sc. degree in 2018 from University of Science and Technology of China.
 
+* * *
+
 ## Research Interests
 
 Geometric Computation and Optimization.
 
+* * *
+
 ## Undergraduate Projects
 
--  **Drawing Machine Based on Corexy Structure**
+### Drawing Machine Based on Corexy Structure
 
-![corexy](/assets/img/corexy.jpg) Final Project on [Computer Graphics](http://staff.ustc.edu.cn/~lgliu/Courses/ComputerGraphics_2017_spring-summer/Projects/index7)
+| ![corexy](/assets/img/corexy.jpg) | good `zoute` drop  |
 
--  **Handwritten provinces and telephone number identification**
+![corexy](/assets/img/corexy.jpg) Final Project on the course [Computer Graphics](http://staff.ustc.edu.cn/~lgliu/Courses/ComputerGraphics_2017_spring-summer/Projects/index7)
 
-![character](/assets/img/character.png) Final projects on [Mathematical Modeling](http://www.smartchair.cn/MMC2017/)
+### Handwritten provinces and telephone number identification
+
+![character](/assets/img/character.png) Final projects on the course [Mathematical Modeling](http://www.smartchair.cn/MMC2017/)
 
 * * *
 
