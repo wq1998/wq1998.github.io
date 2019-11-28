@@ -27,7 +27,7 @@ Geometric Computation and Optimization.
 ## Undergraduate Projects
 
 -  **Drawing Machine Based on Corexy Structure**
-Final Project on [Computer Graphics](http://staff.ustc.edu.cn/~lgliu/Courses/ComputerGraphics_2017_spring-summer/Projects/index7)
+![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png) Final Project on [Computer Graphics](http://staff.ustc.edu.cn/~lgliu/Courses/ComputerGraphics_2017_spring-summer/Projects/index7)
 
 -  **Handwritten provinces and telephone number identification**
 Final projects on [Mathematical Modeling](http://www.smartchair.cn/MMC2017/)
