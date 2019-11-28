@@ -23,7 +23,7 @@ I am currently a Ph.D. candidate at University of Science and Technology of Chin
 ## Undergraduate Projects
 
 ### Drawing Machine Based on Corexy Structure
-Final Project on [Computer Graphics](http://staff.ustc.edu.cn/~lgliu/Courses/ComputerGraphics_2017_spring-summer/Projects/index7.html)
+Final Project on [Computer Graphics](http://staff.ustc.edu.cn/~lgliu/Courses/ComputerGraphics_2017_spring-summer/Projects/index7)
 
 ## Awards
 2014 
