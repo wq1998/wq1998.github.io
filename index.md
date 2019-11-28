@@ -1,6 +1,3 @@
----
-layout: default
----
 [Graphics&Geometric Computing Laboratory](http://gcl.ustc.edu.cn/) 
 
 [School of Mathematical Sciences](http://math.ustc.edu.cn/) 
