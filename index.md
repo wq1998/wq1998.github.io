@@ -30,7 +30,7 @@ Geometric Computation and Optimization.
 
 ### Drawing Machine Based on Corexy Structure
 
-<img width="65" height="75" src="/assets/img/corexy.jpg"/>Final Project on the course [Computer Graphics](http://staff.ustc.edu.cn/~lgliu/Courses/ComputerGraphics_2017_spring-summer/Projects/index7)
+<img width="65" height="75" src="/assets/img/corexy.jpg"/>Final Project on the course [Computer Graphics](http://staff.ustc.edu.cn/~lgliu/Courses/ComputerGraphics_2017_spring-summer/Projects/index7)  cdscsdnc 
 
 ![corexy](/assets/img/corexy.jpg) Final Project on the course [Computer Graphics](http://staff.ustc.edu.cn/~lgliu/Courses/ComputerGraphics_2017_spring-summer/Projects/index7)
 
