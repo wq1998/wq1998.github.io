@@ -2,10 +2,3 @@ theme: jekyll-theme-minimal
 title: Wang Qi(王琪)
 logo: /assets/img/MonaLisa.bmp
 description: Wang Qi's Homepage
-
-  # generate social links in footer
-  social_links:
-    twitter: thelehhman
-    github:  thelehhman
-    linkedIn: in/thelehhman
-    rss: rss
