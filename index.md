@@ -36,10 +36,8 @@ Geometric Computation and Optimization.
 
 <br/>
 
-<br/>
-
 <img align="left" width="120" src="/assets/img/partitionnumber.jpg"/>
-&nbsp;&nbsp; **Handwritten provinces and telephone number identification**  
+&nbsp;&nbsp; **Handwritten provinces and telephone numbers identification**  
 &nbsp;&nbsp; Final Project on the course [Mathematical Modeling](http://www.smartchair.cn/MMC2017/)  
 &nbsp;&nbsp; with Yumeng Liu and Yifei Xu
 
