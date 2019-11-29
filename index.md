@@ -32,27 +32,20 @@ Geometric Computation and Optimization.
 
 <img align="left" width="120" src="/assets/img/corexy.jpg"/>
 
-**Drawing Machine Based on Corexy Structure**
+  **Drawing Machine Based on Corexy Structure**
 
-Final Project on the course [Computer Graphics](http://staff.ustc.edu.cn/~lgliu/Courses/ComputerGraphics_2017_spring-summer/Projects/index7)  
-with Qifan Guo and Jianfeng He
+  Final Project on the course [Computer Graphics](http://staff.ustc.edu.cn/~lgliu/Courses/ComputerGraphics_2017_spring-summer/Projects/index7)  
+  with Qifan Guo and Jianfeng He
+
+* * *
 
 <img align="left" width="120" src="/assets/img/character.png"/>
 
-**Handwritten provinces and telephone number identification**
+  **Handwritten provinces and telephone number identification**
 
-Final Project on the course [Mathematical Modeling](http://www.smartchair.cn/MMC2017/)  
-with Yumeng Liu and Yifei Xu
+  Final Project on the course [Mathematical Modeling](http://www.smartchair.cn/MMC2017/)  
+  with Yumeng Liu and Yifei Xu
 
-
-<img width="100" height="75" src="/assets/img/corexy.jpg"/>Final Project on the course [Computer Graphics](http://staff.ustc.edu.cn/~lgliu/Courses/ComputerGraphics_2017_spring-summer/Projects/index7)  
-cdscsdnc 
-
-![corexy](/assets/img/corexy.jpg) Final Project on the course [Computer Graphics](http://staff.ustc.edu.cn/~lgliu/Courses/ComputerGraphics_2017_spring-summer/Projects/index7)
-
-### Handwritten provinces and telephone number identification
-
-![character](/assets/img/character.png) Final projects on the course [Mathematical Modeling](http://www.smartchair.cn/MMC2017/)
 
 * * *
 
