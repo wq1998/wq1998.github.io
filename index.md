@@ -30,15 +30,13 @@ Geometric Computation and Optimization.
 
 
 <img align="left" width="120" src="/assets/img/corexy.jpg"/>
-&nbsp;&nbsp; **Drawing Machine Based on Corexy Structure**
-
+&nbsp;&nbsp; **Drawing Machine Based on Corexy Structure**  
 &nbsp;&nbsp; Final Project on the course [Computer Graphics](http://staff.ustc.edu.cn/~lgliu/Courses/ComputerGraphics_2017_spring-summer/Projects/index7)  
 &nbsp;&nbsp; with Qifan Guo and Jianfeng He
-
-
+<br/>
+<br/>
 <img align="left" width="120" src="/assets/img/partitionnumber.jpg"/>
-&nbsp;&nbsp; **Handwritten provinces and telephone number identification**
-
+&nbsp;&nbsp; **Handwritten provinces and telephone number identification**  
 &nbsp;&nbsp; Final Project on the course [Mathematical Modeling](http://www.smartchair.cn/MMC2017/)  
 &nbsp;&nbsp; with Yumeng Liu and Yifei Xu
 
