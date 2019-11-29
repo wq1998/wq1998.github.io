@@ -39,7 +39,7 @@ Geometric Computation and Optimization.
 
 * * *
 
-<img align="left" width="120" src="/assets/img/character.png"/>
+<img align="left" width="120" src="/assets/img/partitionnumber.jpg"/>
 
 &nbsp;&nbsp; **Handwritten provinces and telephone number identification**
 
