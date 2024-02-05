@@ -23,6 +23,7 @@ I am currently a Ph.D. candidate at University of Science and Technology of Chin
 ## Research Interests
 
 Geometric Computation and Optimization.
+
 Digital Geometry Processing
 
 * * *
@@ -31,10 +32,12 @@ Digital Geometry Processing
 ## Undergraduate Projects
 
 ### Drawing Machine Based on Corexy Structure([project page](http://staff.ustc.edu.cn/~lgliu/Courses/ComputerGraphics_2017_spring-summer/Projects/index7.html)) 
-<img align="left" width="180" src="/assets/img/corexy.jpg"/>
+![Octocat](/assets/img/corexy.jpg)
+<img align="left" width="180" src="/assets/img/partitionnumber.jpg"/>
 Final Project on the course [Computer Graphics](http://staff.ustc.edu.cn/~lgliu/Courses/ComputerGraphics_2017_spring-summer/default.htm)  
 with _Qifan Guo_ and _Jianfeng He_
 
+* * *
 
 
 ### Handwritten provinces and telephone numbers identification([report](/assets/file/FinalProject.pdf))  
