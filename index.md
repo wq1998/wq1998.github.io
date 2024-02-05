@@ -14,37 +14,46 @@ Email: <wq2014@mail.ustc.edu.cn>
 * * *
 
 
-## Biograpgy
+# Biograpgy
 
-I am currently a Ph.D. candidate at University of Science and Technology of China, supervised by [Prof. Ligang Liu](http://staff.ustc.edu.cn/~lgliu) and [Dr. Xiao-Ming Fu](http://staff.ustc.edu.cn/~fuxm). Before that, I received my B.Sc. degree in 2018 from University of Science and Technology of China.
+I am currently a Ph.D. candidate at University of Science and Technology of China, supervised by [Prof. Ligang Liu](http://staff.ustc.edu.cn/~lgliu) and [A.P. Xiao-Ming Fu](http://staff.ustc.edu.cn/~fuxm). Before that, I received my B.Sc. degree in Computational Mathematics from [School of the Gifted Young](https://en.scgy.ustc.edu.cn/), [University of Science and Technology of China](http://www.ustc.edu.cn/) in 2018.
 
 * * *
 
-## Research Interests
+# Research Interests
 
 Geometric Computation and Optimization.
+Digital Geometry Processing
 
 * * *
+### Small image
 
-## Undergraduate Projects
+![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+
+### Large image
+
+![Branching](https://github.githubassets.com/images/icons/emoji/octocat.png)
+
+
+# Undergraduate Projects
 
 
 <img align="left" width="120" src="/assets/img/corexy.jpg"/>
 &nbsp;&nbsp; **Drawing Machine Based on Corexy Structure**([project](http://staff.ustc.edu.cn/~lgliu/Courses/ComputerGraphics_2017_spring-summer/Projects/index7.html))  
 &nbsp;&nbsp; Final Project on the course [Computer Graphics](http://staff.ustc.edu.cn/~lgliu/Courses/ComputerGraphics_2017_spring-summer/default.htm)  
-&nbsp;&nbsp; with Qifan Guo and Jianfeng He
+&nbsp;&nbsp; with _Qifan Guo_ and _Jianfeng He_
 
 <br/>
 
 <img align="left" width="120" src="/assets/img/partitionnumber.jpg"/>
 &nbsp;&nbsp; **Handwritten provinces and telephone numbers identification**([report](/assets/file/FinalProject.pdf))  
 &nbsp;&nbsp; Final Project on the course [Mathematical Modeling](http://www.smartchair.cn/MMC2017/)  
-&nbsp;&nbsp; with Yumeng Liu and Yifei Xu
+&nbsp;&nbsp; with _Yumeng Liu_ and _Yifei Xu_
 
 
 * * *
 
-## Awards
+# Awards
 2014 Outstanding new student award for overseas alumni, USTC  
 2016 Outstanding student scholarship, USTC  
 2018 Chiang Chen Scholarship, USTC
