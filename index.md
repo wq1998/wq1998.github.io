@@ -26,13 +26,6 @@ Geometric Computation and Optimization.
 Digital Geometry Processing
 
 * * *
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
 
 # Undergraduate Projects
