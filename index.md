@@ -23,10 +23,10 @@ I am currently a Ph.D. candidate at University of Science and Technology of Chin
 ## Research Interests
 
 Geometric Computation and Optimization.
-
 Digital Geometry Processing
 
 * * *
+## Publications
 
 
 ## Undergraduate Projects
@@ -52,7 +52,7 @@ with _Yumeng Liu_ and _Yifei Xu_
 
 * * *
 
-# Awards
+## Awards
 2014 Outstanding new student award for overseas alumni, USTC  
 2016 Outstanding student scholarship, USTC  
 2018 Chiang Chen Scholarship, USTC
