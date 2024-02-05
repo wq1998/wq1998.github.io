@@ -34,17 +34,20 @@ Digital Geometry Processing
  
 <img align="left" width="120" src="/assets/img/corexy.jpg"/>
 Drawing Machine Based on Corexy Structure([project page](http://staff.ustc.edu.cn/~lgliu/Courses/ComputerGraphics_2017_spring-summer/Projects/index7.html)) 
+
 Final Project on the course [Computer Graphics](http://staff.ustc.edu.cn/~lgliu/Courses/ComputerGraphics_2017_spring-summer/default.htm)  
+
 with _Qifan Guo_ and _Jianfeng He_
 
-* * *
 
 
 
 <img align="left" width="120" src="/assets/img/partitionnumber.jpg"/>
 Handwritten provinces and telephone numbers identification([report](/assets/file/FinalProject.pdf))  
-&nbsp;&nbsp; Final Project on the course [Mathematical Modeling](http://www.smartchair.cn/MMC2017/)  
-&nbsp;&nbsp; with _Yumeng Liu_ and _Yifei Xu_
+
+Final Project on the course [Mathematical Modeling](http://www.smartchair.cn/MMC2017/)  
+
+with _Yumeng Liu_ and _Yifei Xu_
 
 
 * * *
