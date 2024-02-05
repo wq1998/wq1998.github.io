@@ -14,13 +14,13 @@ Email: <wq2014@mail.ustc.edu.cn>
 * * *
 
 
-# Biograpgy
+## Biograpgy
 
 I am currently a Ph.D. candidate at University of Science and Technology of China, supervised by [Prof. Ligang Liu](http://staff.ustc.edu.cn/~lgliu) and [A.P. Xiao-Ming Fu](http://staff.ustc.edu.cn/~fuxm). Before that, I received my B.Sc. degree in Computational Mathematics from [School of the Gifted Young](https://en.scgy.ustc.edu.cn/), [University of Science and Technology of China](http://www.ustc.edu.cn/) in 2018.
 
 * * *
 
-# Research Interests
+## Research Interests
 
 Geometric Computation and Optimization.
 Digital Geometry Processing
@@ -28,18 +28,16 @@ Digital Geometry Processing
 * * *
 
 
-# Undergraduate Projects
+## Undergraduate Projects
 
-
+### Drawing Machine Based on Corexy Structure([project page](http://staff.ustc.edu.cn/~lgliu/Courses/ComputerGraphics_2017_spring-summer/Projects/index7.html)) 
 <img align="left" width="180" src="/assets/img/corexy.jpg"/>
-&nbsp;&nbsp; **Drawing Machine Based on Corexy Structure**([project](http://staff.ustc.edu.cn/~lgliu/Courses/ComputerGraphics_2017_spring-summer/Projects/index7.html))  
-&nbsp;&nbsp; Final Project on the course [Computer Graphics](http://staff.ustc.edu.cn/~lgliu/Courses/ComputerGraphics_2017_spring-summer/default.htm)  
-&nbsp;&nbsp; with _Qifan Guo_ and _Jianfeng He_
+Final Project on the course [Computer Graphics](http://staff.ustc.edu.cn/~lgliu/Courses/ComputerGraphics_2017_spring-summer/default.htm)  
+with _Qifan Guo_ and _Jianfeng He_
 
 <br/>
-
+### Handwritten provinces and telephone numbers identification([report](/assets/file/FinalProject.pdf))  
 <img align="left" width="180" src="/assets/img/partitionnumber.jpg"/>
-&nbsp;&nbsp; **Handwritten provinces and telephone numbers identification**([report](/assets/file/FinalProject.pdf))  
 &nbsp;&nbsp; Final Project on the course [Mathematical Modeling](http://www.smartchair.cn/MMC2017/)  
 &nbsp;&nbsp; with _Yumeng Liu_ and _Yifei Xu_
 
